@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1f244627f559cdae609ae905fc943bcdc05688e4",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1f244627f559cdae609ae905fc943bcdc05688e4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "AAA_pass",
+  "SYMBOL": "AAA_Pass",
+  "MAX_SUPPLY": 5050,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/elliotkiddanger-aaa-pass",
+  "SHOW_BACKGROUND": false
+}
